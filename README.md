@@ -1,5 +1,8 @@
 # Built-a-Promise
 
+## Reference 
+- [Built a Promise](https://github.com/forthealllight/blog/issues/4)
+
 v1.0
 
 ```js
