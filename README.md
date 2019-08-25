@@ -224,3 +224,6 @@ let my = new Promise((resolve,reject) => {
 ```js
 
 ```
+## Reference
+
+-[understand-javascript-promises-by-building-a-promise-from-scratch](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
